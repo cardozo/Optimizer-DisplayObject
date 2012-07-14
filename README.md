@@ -5,7 +5,7 @@ OptimizerDysplayObject is an algorithm designed to compress DysplayObjects and o
 
 Example
 ========================
-- See example working on: link (https://github.com/cardozo/Optimizer-Display-Object/blob/master/Example/bin/OptimizeDisplayObject.swf?raw=true  )
+- See example working on [here](https://github.com/cardozo/Optimizer-Display-Object/blob/master/Example/bin/OptimizeDisplayObject.swf?raw=true)
 - To run the example on (link), you need to use FlashDevelop to build.
 [here](https://github.com/cardozo/Optimizer-Display-Object/blob/master/Example/bin/OptimizeDisplayObject.swf?raw=true)
 
