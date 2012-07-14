@@ -7,7 +7,7 @@ DysplayObjects and optimize the performance of flash Aplications.
 Example
 ========================
 - See the example working on [here](https://github.com/cardozo/Optimizer-Display-Object/blob/master/Example/bin/OptimizeDisplayObject.swf?raw=true)
-- To run the example, you need to use FlashDevelop to build.
+- To compile the example, you need to use FlashDevelop to build.
 
 License
 ========================
