@@ -7,7 +7,7 @@ Example
 ========================
 - See example working on: link (https://github.com/cardozo/Optimizer-Display-Object/blob/master/Example/bin/OptimizeDisplayObject.swf?raw=true  )
 - To run the example on (link), you need to use FlashDevelop to build.
-[here](Optimizer-Display-Object/blob/master/Example/bin/OptimizeDisplayObject.swf)
+[here](https://github.com/cardozo/Optimizer-Display-Object/blob/master/Example/bin/OptimizeDisplayObject.swf?raw=true)
 
 License
 ========================
