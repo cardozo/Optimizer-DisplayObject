@@ -1,4 +1,4 @@
-[Page of project](http://cardozo.github.com/Optimizer-DisplayObject/)
+[Go to page of project](http://cardozo.github.com/Optimizer-DisplayObject/)
 ========================
 
 Optimizer Display Object
